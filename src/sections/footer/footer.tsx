@@ -25,7 +25,7 @@ export default function Footer() {
 					<div className="flex flex-col gap-3">
 						<div className="flex gap-2 items-center text-foreground">
 							<LogoIcon className="size-4" />
-							<p className="text-sm font-medium">Your Name</p>
+							<p className="text-sm font-medium">Unnimaya Pullaikodi</p>
 						</div>
 						<p className="text-xs text-foreground/70 leading-relaxed max-w-xs">
 							Use this placeholder copy to describe your focus, niche, or the

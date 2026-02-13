@@ -5,77 +5,77 @@ export interface FaqItem {
 
 export const faqItems: FaqItem[] = [
 	{
-		question: "What type of CRM / Power Platform work do you specialize in?",
+		question: "CRM & Power Platform Experience",
 		answer:
-			"I focus on building solutions with Dynamics 365 CE (Sales, Customer Service, Marketing) and Power Platform (Power Apps, Power Automate, Power BI, Dataverse) for small to medium teams and various industries.",
+			"I’ve built and delivered solutions using Dynamics 365 CE (Sales, Customer Service, and Marketing) and the Microsoft Power Platform, including Power Apps, Power Automate, Power BI, and Dataverse. My work focuses on creating structured, scalable systems that improve efficiency and visibility.",
 	},
 	{
-		question: "How should I describe my process?",
+		question: "Project Approach",
 		answer:
-			"My process usually starts with discovery, then design and prototyping, followed by development, testing, and deployment. I keep communication clear and provide updates throughout.",
+			"I’ve led projects from discovery through design, development, testing, and deployment. Each implementation starts with understanding real business workflows and ends with a solution that’s stable, maintainable, and aligned with operational goals.",
 	},
 	{
-		question: "Which Power Platform apps do you work on?",
+		question: "Application Development",
 		answer:
-			"I primarily build Canvas & Model-Driven apps, automated workflows with Power Automate, and dashboards/reports in Power BI to help businesses streamline operations.",
+			"I’ve developed Canvas and Model-Driven apps, built automated workflows with Power Automate, and created Power BI dashboards that turn complex data into clear insights for decision-makers.",
 	},
 	{
-		question: "Do you customize Dynamics 365 CE?",
+		question: "Dynamics 365 Customization",
 		answer:
-			"Yes, I tailor CE modules like Sales, Customer Service, and Marketing with workflows, plugins, and custom components to match business needs.",
+			"I’ve customized Dynamics 365 CE environments by configuring entities, business process flows, security roles, plugins, and custom components to match specific business requirements.",
 	},
 	{
-		question: "Can you integrate these solutions with other systems?",
+		question: "System Integrations",
 		answer:
-			"Absolutely. I connect Dynamics 365 and Power Platform to SharePoint, Teams, Azure, SQL, and third-party APIs to unify data and automate processes.",
+			"I’ve integrated Dynamics 365 and Power Platform solutions with SharePoint, Microsoft Teams, Azure services, SQL databases, and third-party APIs to ensure reliable and seamless data flow.",
 	},
 	{
-		question: "Do you help with app or workflow optimization?",
+		question: "Optimization & Improvements",
 		answer:
-			"Absolutely. Let people know if youre booking a month out, available instantly, or only taking on retainers. It saves back-and-forth and sets an immediate expectation.",
+			"I’ve optimized existing CRM and Power Platform environments by refining workflows, improving performance, simplifying user experiences, and reducing technical debt to make systems more scalable and efficient.",
 	},
-	
 ];
+
 
 export const faqItemsMobile: FaqItem[] = [
 	{
-		question: "What projects fit here?",
+		question: "Type of Projects Delivered",
 		answer:
-			"Describe the type of work you love doing and who its for so new leads know theyre in the right place.",
+			"I’ve worked on CRM implementations, automation improvements, reporting solutions, and system integrations within Dynamics 365 and the Power Platform.",
 	},
 	{
-		question: "Whats the process?",
+		question: "How Projects Are Executed",
 		answer:
-			"Outline your workflow at a high level discovery, build, launch to show how organized you are.",
+			"I handle projects from discovery to launch, ensuring structured planning, clean builds, proper testing, and smooth deployment.",
 	},
 	{
-		question: "How fast can things ship?",
+		question: "Delivery Timelines",
 		answer:
-			"Give a rough range for common engagements and call out what makes timelines move up or down.",
+			"I’ve delivered smaller enhancements within days or weeks and larger implementations over several months, depending on scope and complexity.",
 	},
 	{
-		question: "How do we collaborate?",
+		question: "Collaboration Style",
 		answer:
-			"List the tools you prefer and whether you plug into existing teams, handle communication async, or lead the project.",
+			"I’ve collaborated both independently and alongside internal teams, maintaining clear communication and organized progress tracking throughout engagements.",
 	},
 	{
-		question: "What tools do you use?",
+		question: "Technology Stack",
 		answer:
-			"Share your primary stack or platforms. People searching for a specialist will thank you.",
+			"My core stack includes Dynamics 365 CE, Power Apps, Power Automate, Power BI, Dataverse, Azure services, SQL, and API integrations.",
 	},
 	{
-		question: "Are you available?",
+		question: "Engagement Models",
 		answer:
-			"Let folks know if youre open for new work now, booking next quarter, or taking on limited engagements.",
+			"I’ve worked on fixed-scope projects, sprint-based engagements, and ongoing retainers depending on business needs and project scale.",
 	},
 	{
-		question: "How do you price projects?",
-		answer:
-			"Reference your preferred model (fixed scope, sprint-based, or retainers) and invite people to request a quote.",
-	},
-	{
-		question: "Need something else?",
-		answer:
-			"Remind visitors they can always message you through the contact form for anything not covered here.",
-	},
+	question: "Performance & Scalability",
+	answer:
+		"I’ve improved system performance and scalability by restructuring data models, optimizing workflows, and reducing unnecessary customizations to ensure long-term maintainability.",
+},
+{
+	question: "Security & Governance",
+	answer:
+		"I’ve configured role-based security models, environment strategies, and governance controls to ensure data protection, compliance, and structured platform management.",
+},
 ];
