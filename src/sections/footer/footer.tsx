@@ -28,8 +28,6 @@ export default function Footer() {
 							<p className="text-sm font-medium">Unnimaya Pullaikodi</p>
 						</div>
 						<p className="text-xs text-foreground/70 leading-relaxed max-w-xs">
-							Use this placeholder copy to describe your focus, niche, or the
-							type of projects you love working on.
 						</p>
 					</div>
 
