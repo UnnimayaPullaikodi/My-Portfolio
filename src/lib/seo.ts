@@ -37,24 +37,23 @@ export type BlogSeoPayload = {
 	date?: string;
 };
 
-const SITE_URL = "https://your-domain.com";
-const SITE_NAME = "Your Name";
-const DEFAULT_TITLE = "Your Name — Your Role";
+const SITE_URL = "https://unnimaya.vercel.app";
+const SITE_NAME = "Unnimaya Pullaikodi";
+const DEFAULT_TITLE = "Unnimaya Pullaikodi";
 const DEFAULT_DESCRIPTION =
-	"Use this space to describe the kind of work you do, the industries you serve, and what makes your approach unique.";
+	"Personal website of Unnimaya Pullaikodi showcasing projects and work.";
 const DEFAULT_KEYWORDS = [
 	"portfolio",
-	"freelance",
-	"independent",
-	"developer",
-	"designer",
+	"data",
+	"analytics",
+	"projects",
+	"technology",
 ];
-const AUTHOR = "your-handle";
-const CONTACT_EMAIL = "hello@your-domain.com";
+const AUTHOR = "unnimayapullaikodi";
+const CONTACT_EMAIL = "unnimayamadhav@gmail.com";
 const SOCIAL_PROFILES = [
-	"https://github.com/your-handle",
-	"https://www.linkedin.com/in/your-profile",
-	"https://www.instagram.com/your-handle",
+	"https://github.com/unnimayapullaikodi",
+	"https://www.linkedin.com/in/unnimayapullaikodi",
 ];
 
 export const absoluteUrl = (path = "/") => {
